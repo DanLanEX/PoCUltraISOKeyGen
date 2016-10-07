@@ -10,8 +10,8 @@ ___if you have a good NVIDIA GPU in your notebook,it costs less than 30min to ca
 
 
 developed under win7_x64 sp1 with NVIDIA GPU.  
-**requirments:NVIDIA GPU compute compatible >=2.0**  
-  
+**requirments:NVIDIA GPU compute compatible >=2.0  
+modified GMP: mpz_get_str return always upper case string.**  
 # CheckUltraISO  
 it is the equivalence code of UltraISO key validation.  
   
