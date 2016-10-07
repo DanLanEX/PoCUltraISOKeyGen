@@ -1,5 +1,5 @@
 # PoCUtraISOKeyGen  
-Proof of Concept UltraISO KeyGen  
+Proof of Concept UltraISO KeyGen:UltraISO Premium Edition Version 9.6.5.3237  
   
 this is a proof of concept keygen.  
 it only has the possibilities to calculate the correct key.  
